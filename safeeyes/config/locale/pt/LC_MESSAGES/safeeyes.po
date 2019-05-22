@@ -79,11 +79,11 @@ msgstr "iniciar o safeeyes em modo de debug"
 
 # Commandline arg description
 msgid "print the status of running safeeyes instance and exit"
-msgstr ""
+msgstr "mostrar o status da instância do safeyes em execução e sair"
 
 # Status message
 msgid "Safe Eyes is not running"
-msgstr ""
+msgstr "O Safe Eyes não está em execução"
 
 # About dialog
 msgid "Close"
@@ -148,11 +148,11 @@ msgstr ""
 
 # Settings dialog
 msgid "Reset"
-msgstr ""
+msgstr "Redefinir"
 
 # Settings dialog
 msgid "Are you sure you want to reset all settings to default?"
-msgstr ""
+msgstr "Você tem certeza que quer redefinir todas as configurações para o padrão?"
 
 # Settings dialog
 msgid "Options"
@@ -168,15 +168,15 @@ msgstr "Paradas Longas"
 
 # Settings dialog
 msgid "Delete"
-msgstr ""
+msgstr "Deletar"
 
 # Settings dialog
 msgid "Are you sure you want to delete this break?"
-msgstr ""
+msgstr "Você tem certeza que quer deletar esta pausa?"
 
 # Settings dialog
 msgid "You can't undo this action."
-msgstr ""
+msgstr "Você não pode desfazer esta ação"
 
 # Settings dialog
 msgid "Break"
@@ -220,7 +220,7 @@ msgstr "Duração"
 
 # Settings dialog
 msgid "Time to wait"
-msgstr ""
+msgstr "Hora de esperar"
 
 # Settings dialog
 msgid "Override"
@@ -285,11 +285,11 @@ msgstr ""
 
 # plugin/audiblealert
 msgid "Play audible alert before breaks"
-msgstr ""
+msgstr "Tocar um alerta sonoro antes da parada"
 
 # plugin/audiblealert
 msgid "Play audible alert after breaks"
-msgstr ""
+msgstr "Tocar um alerta sonoro depois da parada"
 
 # plugin/donotdisturb
 msgid "Do Not Disturb"
@@ -313,7 +313,7 @@ msgstr "Mude as janelas interruptíveis para o modo normal"
 
 # plugin/donotdisturb
 msgid "Do not disturb while on battery"
-msgstr ""
+msgstr "Não perturbe enquanto estiver na bateria"
 
 # plugin/healthstats
 msgid "Health Statistics"
@@ -325,7 +325,7 @@ msgstr "Mostrar estatísticas baseadas em como você usa o Safe Eyes"
 
 # plugin/healthstats
 msgid "Interval to reset statistics (in hours)"
-msgstr ""
+msgstr "Intervalo para redefinir estatísticas (em horas)"
 
 # plugin/notification
 msgid "Notification"
@@ -361,7 +361,7 @@ msgstr "Segundos mínimos para pular sem a proteção de tela"
 
 # plugin/screensaver
 msgid "Lock screen"
-msgstr ""
+msgstr "Travar a tela"
 
 # plugin/smartpause
 msgid "Smart Pause"
@@ -383,11 +383,11 @@ msgstr ""
 
 # plugin/smartpause
 msgid "Postpone the next break until the system becomes idle"
-msgstr ""
+msgstr "Adie a próxima pausa até que o sistema fique ocioso"
 
 #: plugins/trayicon
 msgid "Tray Icon"
-msgstr "Ícone de bandeja"
+msgstr "Ícone na bandeja"
 
 #: plugins/trayicon
 msgid "Show a tray icon in the notification area"
@@ -399,7 +399,7 @@ msgstr "Mostrar a próxima hora de parada no ícone de bandeja"
 
 #: plugins/trayicon
 msgid "Allow disabling Safe Eyes"
-msgstr ""
+msgstr "Permitir desabilitar o Safe Eyes"
 
 #: plugins/trayicon
 msgid "About"
@@ -465,12 +465,12 @@ msgstr "Sair"
 
 # plugin/mediacontrol
 msgid "Media Control"
-msgstr ""
+msgstr "Controle de Mídia"
 
 # plugin/mediacontrol
 msgid "Pause media players from the break screen"
-msgstr ""
+msgstr "Pausar players de mídia durante a pausa de tela"
 
 # plugin/mediacontrol
 msgid "Pause media"
-msgstr ""
+msgstr "Pausar mídia"
